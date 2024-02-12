@@ -121,12 +121,16 @@ celerybeat.pid
 
 # Environments
 .env
+.env.master
+.env.worker
 .venv
 env/
 venv/
 ENV/
 env.bak/
 venv.bak/
+*.html
+*.csv
 
 # Spyder project settings
 .spyderproject
