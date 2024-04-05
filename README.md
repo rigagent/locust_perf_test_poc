@@ -7,3 +7,5 @@ This is a simple POC for performance testing using Locust performance tool.
 3. **Docker / Docker Compose**
 4. **Grafana**
 5. **InfluxDB 1.8**
+6. **Prometheus**
+7. **Node Exporter**
